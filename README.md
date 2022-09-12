@@ -26,11 +26,11 @@ Tạo ra một blog cá nhân gồm 2 phần chính:
 ![Sơ đồ tuần tự lesson](https://raw.githubusercontent.com/vuduynewaccount/archive/main/lesson-ms-sd.svg)
 
 ### diary-microservice
-- Có tác dụng như lesson, chỉ khác là ngôn ngữ phía backend và database
+- Có tác dụng như lesson, chỉ khác là ngôn ngữ phía backend và database  
 ![Sơ đồ tuần tự diary](https://raw.githubusercontent.com/vuduynewaccount/archive/main/diary-ms-sd.svg)
 
 ## Sơ đồ lớp
-- Em đặt tên chung lớp bài viết là post
+- Em đặt tên chung lớp bài viết là post  
 ![Sơ đồ lớp](https://raw.githubusercontent.com/vuduynewaccount/archive/main/class.svg)
 
 ## Database 
